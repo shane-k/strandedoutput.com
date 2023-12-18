@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on </title>
+    <link>https://strandedoutput.com/about/</link>
+    <description>Recent content in About on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ie</language><atom:link href="https://strandedoutput.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What does Stranded Output even mean?</title>
+      <link>https://strandedoutput.com/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://strandedoutput.com/about/about/</guid>
+      <description>Stranded Output is the title of a YouTube channel (which is currently dormant) I came up with which eventually became my screen name. It&amp;rsquo;s obviously a play on words with &amp;lsquo;standard output&amp;rsquo;.
+When I was a child I was diagnosed with dyspraxia which affects my motor coordination and working memory. It also has some parallels with ADHD in that I have poor focus and attention. This means I have a tendency to get bored with things very easily and switch from hobby to hobby constantly.</description>
+    </item>
+    
+  </channel>
+</rss>
